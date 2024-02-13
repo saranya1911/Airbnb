@@ -47,7 +47,7 @@ if select == "Home":
         st.write("Stream:blue[lit]")
         st.write("Mongo:blue[DB]")
         st.write("PowerBI or :blue[Tableau]")
-    st.markdown("Visualization by :blue[Vinoth]")
+    st.markdown("Visualization by :blue[Saranya]")
     
     
     
